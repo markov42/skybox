@@ -1,1 +1,1 @@
-# skybox
+# skybox resources
